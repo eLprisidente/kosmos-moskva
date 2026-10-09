@@ -1,0 +1,5 @@
+window.SITE_CONFIG = {
+  YMAPS_API_KEY: "0edc9821-1f81-437d-aa7e-213e49b7a855",
+  MAP_CENTER: [55.752, 37.585],
+  MAP_ZOOM: 11
+};

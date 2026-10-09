@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Космическая Москва</title>
+<meta name="description" content="Интерактивный историко-культурный маршрут «Поехали!» по 11 местам Москвы, связанным с историей космонавтики.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=PT+Sans:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="css/style.css?v=5">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Историко-культурный маршрут · г. Москва · 11 остановок</div>
+    <h1>Поехали!<span>Космическая Москва: от подвала до орбиты</span></h1>
+    <p class="lede">Москва — город, где отечественная космонавтика родилась, выросла и продолжает работать. Маршрут проходит этот путь по порядку: от энтузиастов в подвале 1930-х через Главного конструктора и прорыв 1957–1961 годов к институтам и заводам, которые работают сегодня, и к памяти о тех, кто это сделал.</p>
+    <div class="meta"><span>Период: <b>1929–2025</b></span><span>Глав: <b>5</b></span><span>Остановок: <b>11</b></span><span class="score" id="score">Квиз: <b>0</b> из 11</span></div>
+  </header>
+
+  <nav class="chapters" id="chapters" aria-label="Главы маршрута"></nav>
+
+  <div class="board">
+    <div class="mapbox">
+      <div id="ymap" hidden></div>
+      <svg id="map" viewBox="0 0 600 900" role="img" aria-label="Схема Москвы с остановками маршрута"></svg>
+      <div class="chips" id="chips" aria-label="Остановки"></div>
+      <div class="maplegend"><span id="mapnote">Схема по реальным координатам</span></div>
+    </div>
+    <article class="card" id="card" aria-live="polite"></article>
+  </div>
+
+  <section class="tlsec">
+    <div class="eyebrow">Хронология</div>
+    <h2 class="sec">Девяносто шесть лет за одну линию</h2>
+    <div class="tlscroll"><ol class="tl" id="tl"></ol></div>
+  </section>
+
+  <section class="src">
+    <div class="eyebrow">Список источников</div>
+    <h3>Текстовые источники</h3>
+    <ol id="src"></ol>
+    <div><h3>Иллюстрации</h3><ol id="photosrc"></ol></div>
+  </section>
+
+  <footer>Проект по курсу «Основы российской государственности» · НИУ ВШЭ · 2026</footer>
+</div>
+
+<script src="js/config.js?v=5"></script>
+<script src="js/credits.js?v=5"></script>
+<script src="js/data.js?v=5"></script>
+<script src="js/app.js?v=5"></script>
+</body>
+</html>

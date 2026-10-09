@@ -1,0 +1,51 @@
+{
+ "1": {
+  "file": "photos/01.jpg",
+  "title": "Moscow Planetarium 1948",
+  "author": "Ludvig14",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "date": "Taken on 9 March 2017, 17:13:24",
+  "page": "https://commons.wikimedia.org/wiki/File:Moscow_Planetarium_1948.jpg"
+ },
+ "7": {
+  "file": "photos/07.jpg",
+  "title": "Павильон Космос, ВДНХ, Москва - Kosmos Padilion, VDNKH, Moscow",
+  "author": "Pulux11",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "date": "2018-07-29",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD_%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81,_%D0%92%D0%94%D0%9D%D0%A5,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_Kosmos_Padilion,_VDNKH,_Moscow.jpg"
+ },
+ "9": {
+  "file": "photos/09.jpg",
+  "title": "The rollout of Proton-M rocket with MLM-U Nauka",
+  "author": "Katlinegrey",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "date": "Taken on 17 July 2021, 04:52:59",
+  "page": "https://commons.wikimedia.org/wiki/File:The_rollout_of_Proton-M_rocket_with_MLM-U_Nauka.jpg",
+  "w": 1280,
+  "h": 960
+ },
+ "10": {
+  "file": "photos/10.jpg",
+  "title": "Gagarin Square At Sunset (221145437)",
+  "author": "Szcz Szcz",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "date": "5 April 2017, 18:55:07 (UTC)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gagarin_Square_At_Sunset_(221145437).jpeg",
+  "w": 1280,
+  "h": 1707
+ },
+ "11": {
+  "file": "photos/11.jpg",
+  "title": "Soyuz MS-11 crew and backup crew at the Kremlin Wall (2)",
+  "author": "NASA/Sarah Volkman",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "date": "Taken on 15 November 2018",
+  "page": "https://commons.wikimedia.org/wiki/File:Soyuz_MS-11_crew_and_backup_crew_at_the_Kremlin_Wall_(2).jpg"
+ }
+}
